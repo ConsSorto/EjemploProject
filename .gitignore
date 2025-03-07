@@ -1,0 +1,8 @@
+backend/.vs
+backend/API/bin
+backend/API/obj
+backend/Aplication/bin
+backend/Aplication/obj
+backend/*/bin
+backend/*/obj
+backend/API/.env
